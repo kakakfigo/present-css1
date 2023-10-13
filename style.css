@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#judul {
+  width: 100%;
+  background-color: gainsboro;
+  font-size: 20px;
+  text-align: center;
+  padding-bottom: 20px;
+  margin-bottom: 50px;
+}
+
+.media img {
+  display: block;
+  margin: 0 auto;
+  width: 480px;
+  height: 360px;
+  margin-bottom: 50px;
+}
+
+.content {
+  padding-right: 20vh;
+  padding-left: 20vh;
+  font-size: 18px;
+}
+
+.content .opening p {
+  margin-bottom: 30px;
+}
+
+.content .one,
+.two,
+.three,
+.four,
+.five,
+.six,
+.seven {
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.content img {
+  width: 560px;
+  height: 240px;
+  margin-bottom: 30px;
+}
+
+.content div h3 {
+  margin-bottom: 30px;
+}
+
+.content div p {
+  margin-bottom: 30px;
+}
