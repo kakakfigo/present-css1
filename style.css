@@ -8,7 +8,8 @@ body {
 }
 
 #judul {
-  background-color: gainsboro;
+  background-color: slategray;
+  color: aliceblue;
   font-size: 18px;
   text-align: center;
   padding: 15px;
